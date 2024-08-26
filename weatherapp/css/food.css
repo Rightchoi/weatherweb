@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.navbar{
+    background-color: antiquewhite;
+    padding: 20px;
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+
+}
+.nav{
+    display: flex;
+    align-items: center;
+    width: 100%;
+
+}
